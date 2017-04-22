@@ -1,0 +1,1 @@
+{"id":"typescript","ext":"ts","version":"TypeScript 2.0","compile":"","execute":"","preview":"tsc --outFile index.htm main.ts","command":"","file":"/home/cg/src/samples/main.ts","url":"try_typescript_online.php","mode":"javascript"}
